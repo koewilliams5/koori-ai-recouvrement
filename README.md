@@ -2,7 +2,7 @@
 
 # KOORI
 
-### Agent IA vocal de recouvrement éthique et de restructuration de crédits — Banques & Microfinances de la zone UEMOA
+### Agent IA vocal de recouvrement éthique et de restructuration de crédits Banques & Microfinances de la zone UEMOA
 
 > *Récupérer les créances en souffrance sans humilier personne, à l'échelle de milliers de dossiers, dans la langue du client.*
 
@@ -10,7 +10,7 @@
 
 ## Le problème
 
-Les banques de l'UEMOA détiennent plus de **3 442 milliards FCFA de créances en souffrance** — soit un taux brut de dégradation d'environ **9 %** (source : BCEAO, 2026). Autrement dit, près d'**un crédit sur onze** n'est pas remboursé.
+Les banques de l'UEMOA détiennent plus de **3 442 milliards FCFA de créances en souffrance** soit un taux brut de dégradation d'environ **9 %** (source : BCEAO, 2026). Autrement dit, près d'**un crédit sur onze** n'est pas remboursé.
 
 Aujourd'hui, le recouvrement amiable est **entièrement manuel** :
 
@@ -40,8 +40,8 @@ L'agent fait trois choses :
 ## Pourquoi maintenant
 
 - Le **stock de créances en souffrance augmente** alors que le crédit accélère (+25 % de volume mensuel de crédits en un an).
-- Les **LLM vocaux multilingues** sont devenus utilisables (voix naturelle, faible latence) — c'était techniquement impossible il y a deux ans.
-- La **preuve de marché existe** en Afrique anglophone (Bfree, 12 M$+ levés, 740 M$ de créances traitées) — mais **aucun équivalent n'existe en Afrique francophone**.
+- Les **LLM vocaux multilingues** sont devenus utilisables (voix naturelle, faible latence) c'était techniquement impossible il y a deux ans.
+- La **preuve de marché existe** en Afrique anglophone (Bfree, 12 M$+ levés, 740 M$ de créances traitées) mais **aucun équivalent n'existe en Afrique francophone**.
 
 ---
 
@@ -123,7 +123,7 @@ L'agent fait trois choses :
 Une **négociation en direct** entre l'agent IA et un « débiteur » joué par un membre du jury :
 
 1. Affichage d'un portefeuille de 1000 dossiers en souffrance.
-2. Le téléphone du « débiteur » sonne — l'agent le salue par son nom, comprend sa situation (« j'ai perdu mon emploi, je peux payer 25 000/mois »), négocie et conclut un accord.
+2. Le téléphone du « débiteur » sonne l'agent le salue par son nom, comprend sa situation (« j'ai perdu mon emploi, je peux payer 25 000/mois »), négocie et conclut un accord.
 3. En simultané, le tableau de bord de la banque se met à jour en temps réel : promesse enregistrée, échéancier généré, projection de recouvrement affichée.
 
 ---
@@ -146,7 +146,7 @@ Une **négociation en direct** entre l'agent IA et un « débiteur » joué par 
 
 ## Auteur
 
-Projet Capstone — Bootcamp GenAI & Machine Learning (Tech Talent Accelerator).
+KOE BI Suy Basile - Projet Capstone — Bootcamp GenAI & Machine Learning (Tech Talent Accelerator).
 
 Développeur Full Stack spécialisé en Intelligence Artificielle.
 
